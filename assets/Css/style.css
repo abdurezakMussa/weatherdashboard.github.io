@@ -1,0 +1,46 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+   /* background-image: url('../images/sky_with_cloud_background_192378.jpg'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+h1 {
+  background: transparent;
+  text-align: center;
+  background-color:white;
+  color:white;
+  width:100%;
+  padding:15px;
+}
+.input-group {
+  margin-bottom: 15px;
+}
+.header-style {
+  background: transparent;
+  font-size: 40px;
+  color: #ffffff;
+  text-align: center;
+}
+.card {
+  width:100%;
+}
+.fiveDay{    
+  background-color: royalblue;
+  margin: 15px;
+}
+h3 {
+  float:left;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
